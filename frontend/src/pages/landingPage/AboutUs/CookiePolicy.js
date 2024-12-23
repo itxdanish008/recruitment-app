@@ -28,10 +28,6 @@ export default function CookiePolicy() {
             device or any other device by a website, containing details of your
             browsing history on that website among its many uses.
           </li>
-          <li>
-            Website refers to Greet, accessible from{" "}
-            <span className="font-semibold">jobportal-blush.vercel.app</span>
-          </li>
           <li>“You” means the individual accessing or using the Website.</li>
         </ul>
 
@@ -87,7 +83,7 @@ export default function CookiePolicy() {
           </a>
         </p>
 
-        <h2 className="text-3xl mb-4 mt-10">Your choices regardin cookies</h2>
+        <h2 className="text-3xl mb-4 mt-10">Your choices regarding cookies</h2>
         <p>
           If you want to avoid cookies on our website you must disable cookies
           in your browser and then delete the cookies saved in your browser
@@ -95,63 +91,13 @@ export default function CookiePolicy() {
           you do not accept our policy for cookies you may experieence some
           inconvenience in your use of the website.
           <br /> <br />
-          See links below for help and instructions on how to disable cookies
-          for your web browser:
-          <br /> <br />
-        </p>
-
-        <p>
-          <strong>Google Chrome: </strong>
-          <a
-            className="text-blue-400"
-            href="https://support.google.com/accounts/answer/32050"
-            target="_blank"
-            rel="noreferrer"
-          >
-            https://support.google.com/accounts/answer/32050
-          </a>
-        </p>
-
-        <p>
-          <strong>Microsoft Edge: </strong>
-          <a
-            className="text-blue-400"
-            href="http://support.microsoft.com/kb/278835"
-            target="_blank"
-            rel="noreferrer"
-          >
-            http://support.microsoft.com/kb/278835
-          </a>
-        </p>
-        <p>
-          <strong>Firefox: </strong>
-          <a
-            className="text-blue-400"
-            href="https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox"
-            target="_blank"
-            rel="noreferrer"
-          >
-            https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox
-          </a>
-        </p>
-
-        <p>
-          <strong>Safari: </strong>
-          <a
-            className="text-blue-400"
-            href="https://support.apple.com/sv-se/guide/safari/welcome/mac"
-            target="_blank"
-            rel="noreferrer"
-          >
-            https://support.apple.com/sv-se/guide/safari/welcome/mac
-          </a>
         </p>
 
         <h2 className="text-3xl mb-4 mt-10">Contact us</h2>
         <p>
           If you have any questions, please contact{" "}
-          <span className="font-bold">Ricky(Kha)</span> by email at{" "}
-          <span className="font-bold">nhatkha06299@gmail.com</span>
+          <span className="font-bold">Axix Family</span> by email at{" "}
+          <span className="font-bold">info@axixtechnologies.com</span>
         </p>
       </div>
     </div>

@@ -88,7 +88,7 @@ export default function Navbar() {
               <Link className="flex pt-1" to="/">
                 <img className="md:pl-5 pl-2" src={logo} alt="logo" />
                 <h1 className="md:pl-2 pl-2 text-2xl sm:text-2xl md:text-3xl text-[#F2994A] font-medium hover:opacity-60">
-                  JobPortal
+                  Axix JobPortal
                 </h1>
               </Link>
 

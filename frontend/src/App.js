@@ -70,7 +70,7 @@ export default function App() {
     <SetPopupContext.Provider value={setPopup}>
       <Router>
         <ScrollToTop />
-        <InfoBar />
+        {/* <InfoBar /> */}
         <Navbar />
         <Routes>
           <Route exact path="/" element={<Home />} />
